@@ -1,0 +1,18 @@
+instruções:
+Rodar o python: ip_tracker.py -i [ENDERECO DE IP]
+
+obs: é possivel descobrir o seu ip no link: http://www.meuip.com.br/
+-----------------------------------------------------------------------------
+Exemplo usando o termina do linux:
+python3 ip_tracker.py -i 189.200.30.82
+
+IP: 189.200.30.82
+Longitude: -99.1386
+Latitude: 19.4342
+Cidade: Mexico
+Região: Distrito Federal
+Horário Local: 12 May 18:30 (CDT-0500)
+País: MX (MEX)
+
+
+
